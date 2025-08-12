@@ -1,2 +1,2 @@
 docker.io/library/eclipse-temurin:21-jre
---platform=linux/amd64 ahopen/eclipse-temurin-21-jre
+--platform=linux/amd64
